@@ -5,9 +5,11 @@ function setup() {
 function draw() {
   background(204, 226, 225);
   //floor
-  stroke(12);
+  strokeWeight(20);
+  stroke(250);
   line(0, 561, 800, 561);
   //arm left
+  strokeWeight(10);
   rect(200, 250, 150, 10);
   //arm right
   rect(450, 250, 150, 10);
