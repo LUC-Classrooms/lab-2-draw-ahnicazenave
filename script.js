@@ -26,8 +26,8 @@ function draw() {
   fill(246);
   ellipse(400, 140, 175, 175);
   fill(11);
-  ellipse(360, 110, 30, 30);
-  ellipse(440, 110, 30, 30);
+  ellipse(365, 110, 30, 30);
+  ellipse(435, 110, 30, 30);
   fill(255, 165, 0);
   triangle(395, 145, 395, 180, 450, 165);
 }
