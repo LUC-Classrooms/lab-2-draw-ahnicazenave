@@ -7,7 +7,7 @@ function draw() {
   //floor
   line(0, 561, 800, 561);
   //arm left
-  rect(200, 250, 150, 10);
+  rect(300, 250, 150, 10);
   //arm right
   rect(400, 250, 150, 10);
   //body 2
