@@ -6,7 +6,7 @@ function draw() {
   background(240);
   //floor
   strokeWeight(30)
-  line(0, 500, 800, 590);
+  line(0, 590, 800, 590);
   //body 2
   fill(240);
   ellipse(400, 450, 225, 225);
