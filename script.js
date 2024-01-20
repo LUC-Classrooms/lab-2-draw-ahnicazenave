@@ -5,7 +5,8 @@ function setup() {
 function draw() {
   background(240);
   //floor
-  line(0, 500, 800, 560);
+  strokeWeight(30)
+  line(0, 500, 800, 590);
   //body 2
   fill(240);
   ellipse(400, 450, 225, 225);
