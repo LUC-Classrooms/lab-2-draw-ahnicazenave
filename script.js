@@ -3,7 +3,7 @@ function setup() {
 }
 
 function draw() {
-  background(204);
+  background(255, 0, 0);
   beginShape();
   vertex(180, 82);
   vertex(207, 36);
