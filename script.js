@@ -5,7 +5,7 @@ function setup() {
 function draw() {
   background(204, 226, 225);
   //floor
-  strokeWeight(40);
+  strokeWeight(60);
   stroke(246);
   line(0, 561, 800, 561);
   //arm left
