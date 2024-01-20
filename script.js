@@ -25,4 +25,6 @@ function draw() {
   //head
   fill(246);
   ellipse(400, 140, 175, 175);
+  fill(251, 175, 33, 50);
+  triangle(400, 140, 385, 155, 415, 125);
 }
