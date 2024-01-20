@@ -3,7 +3,7 @@ function setup() {
 }
 
 function draw() {
-  background(240);
+  background(204, 226, 225);
   //floor
   line(0, 561, 800, 561);
   //arm left
