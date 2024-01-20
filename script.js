@@ -4,6 +4,6 @@ function setup() {
 
 function draw() {
   background(240);
-  ellipse(400, 50, 200, 200);
+  ellipse(400, 150, 200, 200);
   fill(114);
 }
