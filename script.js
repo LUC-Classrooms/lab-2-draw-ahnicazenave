@@ -12,5 +12,5 @@ function draw() {
   ellipse(400, 290, 200, 200);
   //head
   fill(114);
-  ellipse(400, 125, 175, 175);
+  ellipse(400, 150, 175, 175);
 }
