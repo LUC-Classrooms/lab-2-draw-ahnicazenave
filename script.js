@@ -4,6 +4,6 @@ function setup(){
 
 function draw(){
   background(200);
-  // add your drawing code here ...
+  line(20, 50, 420, 110);// add your drawing code here ...
   
 }
