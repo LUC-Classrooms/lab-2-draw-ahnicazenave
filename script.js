@@ -7,7 +7,7 @@ function draw() {
   //floor
   line(0, 561, 800, 561);
   //arm left
-  rect(250, 200, 200, 50);
+  rect(300, 150, 200, 50);
   //body 2
   fill(240);
   ellipse(400, 450, 225, 225);
