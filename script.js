@@ -9,7 +9,7 @@ function draw() {
   //arm left
   rect(200, 250, 150, 10);
   //arm right
-  rect(500, 250, 150, 10);
+  rect(470, 250, 150, 10);
   //body 2
   fill(240);
   ellipse(400, 450, 225, 225);
