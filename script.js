@@ -1,16 +1,8 @@
 function setup() {
-  createCanvas(480, 120);
+  createCanvas(800, 600);
 }
 
 function draw() {
-  background(255, 0, 0);
-  beginShape();
-  vertex(180, 82);
-  vertex(207, 36);
-  vertex(214, 63);
-  vertex(407, 11);
-  vertex(412, 30);
-  vertex(219, 82);
-  vertex(226, 109);
-  endShape(CLOSE);
+  background(240);
+  ellipse(400, 100, 40, 40);
 }
