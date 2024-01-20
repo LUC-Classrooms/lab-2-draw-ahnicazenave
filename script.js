@@ -9,7 +9,7 @@ function draw() {
   stroke(246);
   line(0, 561, 800, 561);
   //arm left
-  strokeWeight(0);
+  strokeWeight(1);
   stroke(64);
   fill(64);
   rect(200, 250, 150, 10);
