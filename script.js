@@ -8,6 +8,6 @@ function draw() {
   ellipse(400, 150, 175, 175);
   fill(114);
   //body 1
-  ellipse(400, 151, 200, 200);
+  ellipse(450, 151, 200, 200);
   fill(114)
 }
